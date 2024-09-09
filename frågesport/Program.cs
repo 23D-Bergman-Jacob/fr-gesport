@@ -31,7 +31,7 @@ System.Console.WriteLine("a=Pinky b=Inky c=Clyde");
 svar = Console.ReadLine();
 if (svar.ToLower() == "a"){ocd = ocd+1;}
 System.Console.WriteLine("Vad står J för i Donald J. Trump");
-System.Console.WriteLine("a=hJunior b=John c=James");
+System.Console.WriteLine("a=Junior b=John c=James");
 svar = Console.ReadLine();
 if (svar.ToLower() == "b"){ocd = ocd+1;}
 
