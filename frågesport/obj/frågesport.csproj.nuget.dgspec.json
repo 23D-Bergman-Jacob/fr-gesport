@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj": {}
+    "C:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj": {
+    "C:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj",
+        "projectUniqueName": "C:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj",
         "projectName": "frågesport",
-        "projectPath": "c:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj",
+        "projectPath": "C:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\frågesport.csproj",
         "packagesPath": "C:\\Users\\jacob.bergman\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\obj\\",
+        "outputPath": "C:\\Users\\jacob.bergman\\Documents\\Prog 1\\frågesport\\frågesport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
