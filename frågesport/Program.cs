@@ -1,4 +1,6 @@
-﻿string svar;
+﻿using System.Globalization;
+
+string svar;
 string spela;
 int ocd;
 while (1==1){
@@ -35,16 +37,16 @@ System.Console.WriteLine("Vad står J för i Donald J. Trump");
 System.Console.WriteLine("a=Junior b=John c=James");
 svar = Console.ReadLine();
 if (svar.ToLower() == "b"){ocd ++;}
-if (ocd < 3){System.Console.WriteLine("Gå tillbaka till skolan!"); System.Console.WriteLine("du fick bara"); System.Console.WriteLine(ocd); System.Console.WriteLine(ocd);}
+if (ocd < 3){System.Console.WriteLine("Gå tillbaka till skolan! Du fick bara");  System.Console.WriteLine(ocd+"poäng");}
 if (ocd > 3|ocd<5){
-System.Console.WriteLine("du fick:");
-System.Console.WriteLine(ocd);
-System.Console.WriteLine("poäng");
-}
-if (ocd>5){System.Console.WriteLine("Snyggt! du fick"); System.Console.WriteLine(ocd); System.Console.WriteLine("poäng");}
+System.Console.WriteLine("du fick: "+ocd+" poäng");}
+if (ocd>5){System.Console.WriteLine("Snyggt! du fick"+ocd+" poäng");}
 System.Console.WriteLine("Vill du spela igen Ja/Nej");
+while (1==1){
 spela = Console.ReadLine();
-
+if (spela.ToLower()=="ja"){break;}
+if (spela.ToLower()=="nej"){break;}
+}
 if (spela.ToLower() == "nej"){break;}
 }
 Console.ReadLine();
